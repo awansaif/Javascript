@@ -1,0 +1,32 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+}
+
+body {
+  background: #003cff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.main h2 {
+  text-transform: capitalize;
+  color: #959595;
+}
+
+.main div {
+  background: #f1f1f1;
+  border-radius: 5px;
+  font-size: 2em;
+  font-weight: 700;
+  margin-top: 10px;
+  font-stretch: expanded;
+}
+#day_Time {
+  font-size: 1em;
+  font-weight: 400;
+}
